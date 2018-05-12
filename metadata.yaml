@@ -1,5 +1,8 @@
 _repo: Ancient-and-Modern-Physics_10773
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Willson, Thomas E.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3677'
     url: http://www.gutenberg.org/2009/agents/3677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10773#Ancient-and-Modern-Physics
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
